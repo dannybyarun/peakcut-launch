@@ -1,0 +1,13 @@
+# The local setup lives here; the code lives in the PeakCut fork.
+# Nothing in this folder is big enough to matter, but the working folders are.
+
+peakcut/data/          the recordings, the model, the clips
+peakcut/.venv/
+peakcut/out/
+out/                   clipforge's samples
+demo/
+compare_cf/
+*.mp4
+*.ts
+__pycache__/
+*.pyc
